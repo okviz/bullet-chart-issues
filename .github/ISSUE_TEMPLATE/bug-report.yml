@@ -1,6 +1,6 @@
 name: 🐛 Bug Report
 description: Let us know if something is expected to work, but doesn't.
-title: ""
+title: "Bug: "
 labels: ["Bug"]
 body:
 - type: checkboxes
@@ -16,8 +16,7 @@ body:
     description: Describe the issue you are experiencing with Bullet Chart. Provide a clear and concise description of what you were trying to do and what happened, along with any error messages you encountered.
   validations:
     required: false
--type: input
-  id: PBI
+- type: input
   attributes: 
     label: Power BI
     description: Enter the specific Power BI version used e.g. Power BI Desktop (include the version - e.g. April 2020), Power BI service, Power BI iOS app, Power BI Android app...
