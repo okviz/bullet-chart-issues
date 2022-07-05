@@ -15,7 +15,7 @@ body:
     label: Current Behavior
     description: Describe the issue you are experiencing with Bullet Chart. Provide a clear and concise description of what you were trying to do and what happened, along with any error messages you encountered.
   validations:
-    required: false
+    required: true
 - type: input
   attributes: 
     label: Power BI
@@ -39,6 +39,12 @@ body:
     description: Include a sample report (.PBIX zipped as .ZIP file) that reproduces the issue. If the report contains private data, please recreate the issue in a sample report with dummy data.
   validations:
     required: true
+- type: textarea
+  attributes:
+    label: Screenshot
+    description: Add screenshots to help explain your problem, if applicable.
+  validations:
+    required: false
 - type: textarea
   attributes:
     label: Anything else?
