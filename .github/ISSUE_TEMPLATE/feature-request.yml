@@ -5,8 +5,7 @@ labels: newFeature
 body:
 - type: markdown
   attributes:
-    value: |
-    Thanks for submitting a feature request!
+    value: Thanks for submitting a feature request!
 - type: textarea
   attributes:
     label: The feature request
