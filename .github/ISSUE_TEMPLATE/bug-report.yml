@@ -1,7 +1,7 @@
 name: 🐛 Bug Report
 description: Let us know if something is expected to work, but doesn't.
-title: "Bug: "
-labels: ["Bug"]
+title: "bug: "
+labels: bug
 body:
 - type: checkboxes
   attributes:
