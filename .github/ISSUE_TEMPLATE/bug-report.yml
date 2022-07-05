@@ -17,7 +17,7 @@ body:
   validations:
     required: false
 -type: input
-  id: PBI version
+  id: PBI
   attributes: 
     label: Power BI
     description: Enter the specific Power BI version used e.g. Power BI Desktop (include the version - e.g. April 2020), Power BI service, Power BI iOS app, Power BI Android app...
@@ -34,7 +34,7 @@ body:
       4. See error...
   validations:
     required: false
--- type: textarea
+- type: textarea
   attributes:
     label: Sample report
     description: Include a sample report (.PBIX zipped as .ZIP file) that reproduces the issue. If the report contains private data, please recreate the issue in a sample report with dummy data.
