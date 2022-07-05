@@ -1,6 +1,6 @@
 name: 🐛 Bug Report
 description: Let us know if something is expected to work, but doesn't.
-title: "bug: "
+title: "Bullet Chart - "
 labels: bug
 body:
 - type: checkboxes
