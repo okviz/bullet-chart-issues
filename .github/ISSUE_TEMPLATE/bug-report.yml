@@ -20,10 +20,11 @@ body:
     label: Power BI
     description: Check where the issue raised.
     options:
-    - label: Power BI Desktop
-    - label: Power BI Service
-    - label: Power BI Desktop & Service
-    - label: Power BI Mobile
+    - Power BI Desktop
+    - Power BI service
+    - Power BI iOS app
+    - Power BI Android app
+    multiple: true
   validations:
     required: true
 - type: input
