@@ -15,15 +15,16 @@ body:
     description: Describe the issue you are experiencing with Bullet Chart. Provide a clear and concise description of what you were trying to do and what happened, along with any error messages you encountered.
   validations:
     required: true
-- type: dropdown
+- type: checkboxes
   attributes:
     label: Power BI
     description: Check where the issue raised.
     options:
     - label: Power BI Desktop
-    - label: Power BI Service
-    - label: Power BI Desktop & Service
-    - label: Power BI Mobile
+    - label: Power BI service
+    - label: Power BI iOS app
+    - label: Power BI Android app
+  validations:
     required: true
 - type: input
   attributes: 
