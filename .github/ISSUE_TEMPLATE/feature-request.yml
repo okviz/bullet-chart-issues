@@ -1,6 +1,5 @@
 name: 💡 Feature Request
-description: Suggest an idea for this project..
-title: "Bullet Chart - "
+description: Suggest an idea for this project.
 labels: enhancement
 body:
 - type: markdown
@@ -15,7 +14,7 @@ body:
 - type: textarea
   attributes:
     label: Proposed solution
-    description: Share how this will benefit Bullet Chart for Power BI and its users.
+    description: Share how this will benefit this visual for Power BI and its users.
   validations:
     required: true
 - type: textarea

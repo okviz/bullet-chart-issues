@@ -12,7 +12,7 @@ body:
 - type: textarea
   attributes:
     label: Current Behavior
-    description: Describe the issue you are experiencing with Bullet Chart. Provide a clear and concise description of what you were trying to do and what happened, along with any error messages you encountered.
+    description: Describe the issue you are experiencing with this visual. Provide a clear and concise description of what you were trying to do and what happened, along with any error messages you encountered.
   validations:
     required: true
 - type: dropdown
