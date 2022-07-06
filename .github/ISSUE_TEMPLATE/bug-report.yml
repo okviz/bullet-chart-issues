@@ -24,7 +24,7 @@ body:
     - label: Power BI service
     - label: Power BI iOS app
     - label: Power BI Android app
-  required: true
+    required: true
 - type: input
   attributes: 
     label: Power BI Version
