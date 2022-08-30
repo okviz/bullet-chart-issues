@@ -1,8 +1,11 @@
 # Bullet Chart by OKVIZ
 
 ## Changelog
-The latest changelog is available here:  
-https://docs.okviz.com/bullet-chart/changelog
+The latest changelog is available here: https://docs.okviz.com/bullet-chart/changelog
+
+## Preview Version
+When the published version of Bullet Chart contains a regression or some annoying bugs, we usually provide in advance a time-limited preview version of the visual with those bugs fixed, waiting for it to be released on App Source. Take a look here:
+[Latest Release](../../releases/)
 
 ## Submit an issue
 To submit an issue, please follow these directions:
